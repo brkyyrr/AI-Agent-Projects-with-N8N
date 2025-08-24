@@ -27,4 +27,8 @@ This repository contains various **AI Agent projects built on N8N**.
 5. [💬 N8N ile Ücretsiz YouTube Scraping](https://github.com/brkyyrr/Scraping-YouTube)
    - **TR:** YouTube’daki kanalları ve videoları bulmak, istatistiklerini almak, Google Sheets’e kaydetmek.
    - **EN:** Find YouTube channels/videos, fetch statistics, and store results in Google Sheets.
+  
+6. [💬 Scrape ANY Website in N8N](https://github.com/brkyyrr/Scrape-ANY-Website-in-N8N-/tree/main)
+   - **TR:** HTML verisini alacağız, temizleyeceğiz, Gemini ile işleyip kişiselleştirilmiş mesajlara dönüştüreceğiz ve sonuçları Google Sheets içinde saklayacağız.
+   - **EN:** We’ll fetch HTML data, extract text, process it with Gemini to create personalized messages, and store results in Google Sheets.
 ---
