@@ -24,4 +24,7 @@ This repository contains various **AI Agent projects built on N8N**.
    - **TR:** Farklı dillerdeki belgelerinizi otomatik olarak çeviren, biçimlendirmeyi koruyan ve süreci uçtan uca otomasyona bağlayan AI Çeviri Ajanı.  
    - **EN:** AI Translation Agent that automatically translates documents, preserves formatting, and connects the whole process into end-to-end automation.  
 
+5. [💬 N8N ile Ücretsiz YouTube Scraping](https://github.com/brkyyrr/Scraping-YouTube)
+   - **TR:** YouTube’daki kanalları ve videoları bulmak, istatistiklerini almak, Google Sheets’e kaydetmek.
+   - **EN:** Find YouTube channels/videos, fetch statistics, and store results in Google Sheets.
 ---
